@@ -1,1 +1,1 @@
-// ** Write a function that retrieves an object from localStorage. The function  should take one argument, which is a string representing the key used to store the object. The function should return the object. **
+// **  Write a function that takes an object and saves each property to localStorage using the property name as the key and the property value as the value. The function should also retrieve the object from localStorage and return it as a new object **
