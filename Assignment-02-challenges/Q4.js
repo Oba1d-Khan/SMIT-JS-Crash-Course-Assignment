@@ -1,0 +1,1 @@
+// **   Write a function that adds a new list item to an unordered list in an HTML document. The function should take a string argument that will be used as the text content of the new list item.  **
