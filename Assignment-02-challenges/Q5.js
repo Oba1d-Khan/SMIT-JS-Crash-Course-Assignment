@@ -15,7 +15,7 @@ changeBG(htmlElem, "lightgrey");
     <script src="Q5.js" defer></script>
   </head>
   <body>
-    <h1>Testing Q5 list element!</h1>
+    <h1>Testing Q5 change in background color!</h1>
     <p id="p-elem">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ex quia
       laboriosam tempora incidunt facilis in dicta officiis animi voluptatum,
